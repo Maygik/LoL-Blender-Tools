@@ -27,3 +27,8 @@ Notes for Usage:
  - Animations can be imported alongside the .skn and .skl by enabling a setting in the import menu.
  - Importing a .bin will additionally import associated textures
    - Note: Textures for VFX parts may not work properly
+
+
+Upcoming Features (To-do)
+1) .bin management inside of blender
+2) .anm exporting
